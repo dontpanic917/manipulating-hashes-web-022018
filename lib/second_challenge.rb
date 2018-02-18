@@ -9,4 +9,5 @@ def second_challenge
   #code your solution here!
   array = []
 array << groceries.each.values
+return array
 end
