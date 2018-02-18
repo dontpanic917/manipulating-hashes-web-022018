@@ -7,5 +7,6 @@ def second_challenge
   }
 
   #code your solution here!
-return groceries.values
+  array = []
+array << groceries.each.values
 end
